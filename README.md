@@ -1,2 +1,2 @@
-# My-Diary-Android-App
+# My Diary
 Android Application for your notes 
